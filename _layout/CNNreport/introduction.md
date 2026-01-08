@@ -18,5 +18,6 @@ google 開發的Teachable Machines 網站來訓練。
 
 ## 模型訓練
 ### googlenet
-
-![googlenet_result]
+- Epoches: 2
+- 
+![googlenet_result](googlenet_result.png)

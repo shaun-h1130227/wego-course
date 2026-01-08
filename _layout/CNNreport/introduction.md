@@ -12,4 +12,4 @@ google 開發的Teachable Machines 網站來訓練。
 因為時間關係，我只使用三種的交通號誌分別為停止、人行道和箭頭標示,每個類別約為100張。
 使用各種標示的向量圖,為單一色彩,有高幾何純度。
 
-![stop](stop.jpg)  ![pedestrian](pedestrian.jpg)  
+![stop](stop.jpg)  ![pedestrian](pedestrian.jpg)  ![chevron](chevron.jpg)

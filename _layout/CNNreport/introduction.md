@@ -13,3 +13,10 @@ google 開發的Teachable Machines 網站來訓練。
 使用各種標示的向量圖,為單一色彩,有高幾何純度。
 
 ![stop](stop_1.jpg)  ![pedestrian](pedestrian_1.jpg)  ![chevron](chevron_1.jpg)
+
+下載完成後批次轉成jpg檔，調整檔案大小至模型所需的224*224，並轉換成全彩
+
+## 模型訓練
+### googlenet
+
+![googlenet_result]
